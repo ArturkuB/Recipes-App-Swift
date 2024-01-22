@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (5.8.1)
+  - AlamofireImage (4.3.0):
+    - Alamofire (~> 5.8)
+  - DropDown (2.3.2)
+  - SDWebImage (5.18.7):
+    - SDWebImage/Core (= 5.18.7)
+  - SDWebImage/Core (5.18.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.8)
+  - AlamofireImage (~> 4.3)
+  - DropDown (= 2.3.2)
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - DropDown
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  AlamofireImage: 843953fa97bee5f561cf05d83abd759e590b068d
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  SDWebImage: f9258c58221ed854cfa0e2b80ee4033710b1c6d3
+
+PODFILE CHECKSUM: 541cbf713fef29b87344c1f6a2a736667631cfa8
+
+COCOAPODS: 1.14.3
